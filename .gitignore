@@ -1,0 +1,7 @@
+# Visual Studio関連の不要なファイルを無視
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
